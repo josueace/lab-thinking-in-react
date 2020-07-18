@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  width: 100vw;
+  background: white;
+}
+
+.iron{
+  font-size:20px;
+ 
+
+}
+
+.flex{
+  display:flex;
+}
+
+.header-row {
+  display:flex;
+  justify-content: space-evenly;
+  background-color: #4A4A4A;
+  padding: 20px 10px;
+  color: #F6F6F6;
+  font-size: 20px;
+}
+
+.td-row {
+  display:flex;
+  justify-content: space-evenly;
+  background-color: #F6F6F6;
+  padding: 20px 10px;
+  color: #4A4A4A;
+  font-size: 20px;
+}
